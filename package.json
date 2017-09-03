@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AlkalineXR/alkaframe/issues"
   },
-  "homepage": "https://github.com/AlkalineXR/alkaframe#readme"
+  "homepage": "https://github.com/AlkalineXR/alkaframe#readme",
+  "devDependencies": {
+    "webpack": "^3.5.5"
+  }
 }
