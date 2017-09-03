@@ -1,0 +1,20 @@
+{
+  "name": "alkaframe",
+  "version": "1.0.0",
+  "description": "Alkaline A-Frame components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlkalineXR/alkaframe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlkalineXR/alkaframe/issues"
+  },
+  "homepage": "https://github.com/AlkalineXR/alkaframe#readme"
+}
